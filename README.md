@@ -18,7 +18,7 @@ An AI-powered interview preparation coach built using the Gemini API, designed t
 
 Frontend: React ⚛️ + TailwindCSS 🎨 + Framer Motion 🎬
 
-Backend: Express.js 🚀 + MongoDB 🍃
+Backend: Node.js + Express.js 🚀 + MongoDB 🍃
 
 AI Integration: Google Gemini API 🤖
 
