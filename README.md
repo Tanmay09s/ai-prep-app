@@ -25,3 +25,7 @@ AI Integration: Google Gemini API 🤖
 Auth & Security: JWT 🔐 + bcryptjs 🔑
 
 Other Tools: React Query, Redux Toolkit, ImageKit
+
+# Live Link
+https://ai-interview-preperation-1.onrender.com/
+
